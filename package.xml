@@ -5,18 +5,9 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Account-Account Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Standard</members>
+        <members>Admin</members>
         <members>System Admin</members>
         <name>Profile</name>
-    </types>
-    <types>
-        <members>Account.test1rt</members>
-        <members>Account.test2rt</members>
-        <name>RecordType</name>
     </types>
     <version>48.0</version>
 </Package>
