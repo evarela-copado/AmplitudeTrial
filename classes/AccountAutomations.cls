@@ -6,7 +6,6 @@ public class AccountAutomations {
             return a;
         }
     }
-
     public static Account setDefaultSite(Account a){
         a.Site = 'Single location'; 
         return a;
@@ -22,7 +21,8 @@ public class AccountAutomations {
         return a;
     }
     public static Account setDefaultURL(Account a) {
-        a.website = 'www.copa.do'; 
+
+        a.website = 'www.copado.com'; 
 
         return a;
     }
