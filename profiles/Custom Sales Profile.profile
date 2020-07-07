@@ -8040,10 +8040,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
-        <recordType>Account.test1rt</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout</layout>
         <recordType>Account.test2rt</recordType>
     </layoutAssignments>
     <layoutAssignments>
