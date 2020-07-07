@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Contact.Copado_External_ID__c</members>
-        <members>Opportunity.Copado_External_ID__c</members>
+        <members>OpportunityLineItem.Copado_External_ID__c</members>
+        <members>Pricebook2.Copado_External_ID__c</members>
+        <members>PricebookEntry.Copado_External_ID__c</members>
+        <members>Product2.Copado_External_ID__c</members>
         <name>CustomField</name>
     </types>
     <types>
