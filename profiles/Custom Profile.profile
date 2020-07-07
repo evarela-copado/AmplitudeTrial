@@ -8040,10 +8040,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
-        <recordType>Account.test1rt</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout</layout>
         <recordType>Account.test2rt</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -10628,11 +10624,6 @@
         <apexPage>copado__viewOrg</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
-    <recordTypeVisibilities>
-        <default>true</default>
-        <recordType>Account.test1rt</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Account.test2rt</recordType>
